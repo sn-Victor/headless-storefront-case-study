@@ -19,6 +19,12 @@
 ---
 
 <p align="center">
+  <a href="media/website-demo.mp4"><img src="images/website-demo-poster.jpg" alt="Demo video: searching the live site, adding a Japanese maple to the cart, and the tiered savings bar" width="85%"></a>
+  <br>
+  <sub><b><a href="media/website-demo.mp4">Watch the 22-second demo</a></b> · recorded from the live site</sub>
+</p>
+
+<p align="center">
   <img src="images/homepage-desktop.png" alt="Settlemyre Nursery homepage on desktop" width="68%">
   <img src="images/homepage-mobile.png" alt="Settlemyre Nursery homepage on mobile" width="24%">
 </p>
